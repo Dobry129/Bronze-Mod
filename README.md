@@ -1,7 +1,11 @@
 # Bronze-Mod
-Mod is all oriented around bronze (kind of not anymore) and adds 6 new materials and many more buildings. 
+This mod is oriented(kind of) around the bronze. 
 
+
+Our goal is to make this mod the biggest json mod for mindustry.
 Current plans can be viewed on Projects page 
+
+If you think that something is not balanced. Let me know in Issues or on discord(Preffered) (Miner28_3#3607). 
 
 ## This mod currently adds: (Last updated- v3.0)
 #### Materials
