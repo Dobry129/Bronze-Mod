@@ -35,5 +35,3 @@ Current plans can be viewed on Projects page
 
 
 ### UPDATE 3.0 RELEASED! One of the biggest updates ever! New material and many new buildings!
-
-You don't have permission to redistribute the mod without my permission in any case!
