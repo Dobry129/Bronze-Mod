@@ -11,5 +11,5 @@
 		{ "item": "graphite", "amount": 50 }
 	],
 	"category": "power",
-	"research": "Small-Bronze-Solarpanel"
+	"research": "small-bronze-solarpanel"
 }
