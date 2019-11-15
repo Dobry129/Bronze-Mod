@@ -5,7 +5,7 @@
    	"size": 3,
 	"tier": 3,
 	"liquidBoostIntensity": 1,
-   	"drillTime": 570,
+   	"drillTime": 400,
    	"itemCapacity": 10,
     "requirements":[
 		    { "item": "iron", "amount": 20 },
