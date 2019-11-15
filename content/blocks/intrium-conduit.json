@@ -6,10 +6,9 @@
 	"requirements": [
 		{"item": "intrium", "amount": 2},
 		{"item": "natrium", "amount": 1},
-		{"item": "tin", "amount": 1},
-		{"item": "copper", "amount": 3},
 	],
 	"category": "liquid",
-	"speed": 0.25,
+	"speed": 0.20
+,
 	"research": "pulse-conduit"
 }
